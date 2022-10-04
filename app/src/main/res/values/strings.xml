@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LibraryWork</string>
+    <string name="long_text">Coming to the “MainActivity” file, a preview of the same is provided below. In this file connect the swipeRefreshLayout and textView to its XML file by using the findViewById() method. And also call the setOnRefreshListener() to change the text after the user swipe down the screen. The users can also write the required codes as their needs inside this method.</string>
 </resources>
